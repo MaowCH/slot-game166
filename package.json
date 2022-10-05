@@ -1,0 +1,15 @@
+{
+  "name": "slot-game166",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "เว็บรวมบาคาร่าออนไลน์เล่นได้ทุกค่าย",
+  "keywords": [
+    "เว็บสล็อต",
+    "เว็บสล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/tu8year/slot-game166",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
